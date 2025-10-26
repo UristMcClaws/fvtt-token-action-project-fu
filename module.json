@@ -1,6 +1,6 @@
 {
   "id": "token-action-hud-template",
-  "title": "Token Action HUD Template",
+  "title": "Token Action HUD - Project FU",
   "description": "Token Action HUD is a repositionable HUD of actions for a selected token",
   "authors": [
     {
@@ -15,14 +15,9 @@
     "minimum": "11",
     "verified": "11.313"
   },
-  "esmodules": [
-    "./scripts/init.js"
-  ],
-  "scripts": [
-  ],
-  "styles": [
-    "./styles/tah-template-style.css"
-  ],
+  "esmodules": ["./scripts/init.js"],
+  "scripts": [],
+  "styles": ["./styles/tah-template-style.css"],
   "languages": [
     {
       "lang": "en",
